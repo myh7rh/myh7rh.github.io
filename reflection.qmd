@@ -1,0 +1,7 @@
+---
+title: "reflection"
+---
+
+For this lab, i used chatgpt to assist in how to change the background colour of my website. It was very useful as I was lazy to search on google as i scared what i wanted would appear. I only used for that. The rest I just use from the what lecture slide has given. This make it easier for me to find what i wanted. 
+
+Beneficial of using GenAI is the flexibility where it offers reccomendation while maintaining what I wanted. There may be difficulties along the way. For example the outputs will not may neccesserily correct or it is not the one that the user want. Overall, it will be convenient tool to address certain questions which will allow me to focus on other aspects.

@@ -1,9 +1,24 @@
 ---
-title: "About"
+title: "Profile"
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+![Profile Pic](img/lx.jpg)
+
+- Name: Hazirah
+- Hobby: Watch Drama
+- Fun fact: Love to eat dessert
+
+
+Watching drama is the only way to motivate me when i have to study.![](img/joy.png){width=5%}
+
+## Top Drama of 2024
+
+| **Drama** | **Rank** |
+|---------------|-----------------|
+| **Love your Enemy**    | 1         |
+| **Lovely Runner**      | 2          |
+
+*More details*: [Mydramalist](https://mydramalist.com/).
+
+

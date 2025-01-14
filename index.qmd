@@ -1,11 +1,18 @@
 ---
-title: "temp_website"
+title: "Welcome"
 ---
 
-This is a Quarto website.
+<hr>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is all about **Hazirah** life.
 
-```{r}
-1 + 1
-```
+### Mood Right Now
+
+![Gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ejZvZjhjaTFqbHpvM2UxOGVud20ydDV4eWtpcHhuNDhtZnlkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h7DyKGq716JMI/giphy.gif)
+
+The cold weather made me sleepy these past few days. I wish to have the semester break quickly.
+
+### Listening to my current fav song :
+{{< video https://youtu.be/rDolt3jJRsM?si=6dvLN2Sgabf-4iWr >}}
+
+

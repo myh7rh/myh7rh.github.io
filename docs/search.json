@@ -2,15 +2,71 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Welcome",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is all about Hazirah life.\n\nMood Right Now\n\n\n\nGif\n\n\nThe cold weather made me sleepy these past few days. I wish to have the semester break quickly.\n\n\nListening to my current fav song :"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Profile",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Profile Pic\nWatching drama is the only way to motivate me when i have to study."
+  },
+  {
+    "objectID": "index.html#latest-drama-i-am-watching",
+    "href": "index.html#latest-drama-i-am-watching",
+    "title": "Welcome",
+    "section": "",
+    "text": "Love your Enemy\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#latest-update",
+    "href": "index.html#latest-update",
+    "title": "Welcome",
+    "section": "Latest update",
+    "text": "Latest update\nJust finish watching Love Your Enemy! \nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Welcome",
+    "section": "About",
+    "text": "About\nIm Hazirah, and i love to watch dramas and enjoy life.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Welcome",
+    "section": "Overview",
+    "text": "Overview\nThis is all about Hazirah life.\n\nMood Right Now\n\n\n\nGif\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html#top-drama-of-2024",
+    "href": "about.html#top-drama-of-2024",
+    "title": "Profile",
+    "section": "Top Drama of 2024",
+    "text": "Top Drama of 2024\n\n\n\nDrama\nRank\n\n\n\n\nLove your Enemy\n1\n\n\nLovely Runner\n2\n\n\n\nMore details: Mydramalist."
+  },
+  {
+    "objectID": "Drama.html",
+    "href": "Drama.html",
+    "title": "Drama",
+    "section": "",
+    "text": "Love Your Enemy 1. A healing drama. Very cute of middle age romance. Love their younger version romance."
+  },
+  {
+    "objectID": "Drama.html#recently-watching",
+    "href": "Drama.html#recently-watching",
+    "title": "Drama",
+    "section": "",
+    "text": "Love Your Enemy 1. A healing drama. Very cute of middle age romance. Love their younger version romance."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "reflection",
+    "section": "",
+    "text": "For this lab, i used chatgpt to assist in how to change the background colour of my website. It was very useful as I was lazy to search on google as i scared what i wanted would appear. I only used for that. The rest I just use from the what lecture slide has given. This make it easier for me to find what i wanted.\nBeneficial of using GenAI is the flexibility where it offers reccomendation while maintaining what I wanted. There may be difficulties where"
   }
 ]
